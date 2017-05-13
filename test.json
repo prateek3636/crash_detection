@@ -1,7 +1,7 @@
 [
-    {
-      "action": "talk",
-      "voiceName": "Prateek",
-      "text": "Hello, thank you for calling. This is Prateek from"
-    }
+  {
+    "action": "talk",
+    "voiceName": "Prateek",
+    "text": "Hello, thank you for calling. This is Prateek from"
+  }
 ]
